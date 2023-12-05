@@ -40,9 +40,8 @@ If you want to work on the software locally, here is one way of doing it
 1. Go to https://github.com/seandonnelly92/m1-challenge-horiseon
 2. Download the code repository by clicking the green 'Code' button and then 'Download Zip' as shown here
 
-  ```md
-    ![Screen capture of the live Horiseon website](assets/images/download-repository.gifng)
-    ```
+    ![GIF showing how to download the code repository from GitHub](assets/images/download-repository.gif)
+
 
 ## Usage
 
@@ -50,9 +49,7 @@ Functionality is limited on the website, it mostly just displays information. Th
 
 Here is a screenshot of the live website: 
 
-    ```md
     ![Screen capture of the live Horiseon website](assets/images/live-website-screen-capture.png)
-    ```
 
 
 ## Credits
