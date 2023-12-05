@@ -5,16 +5,22 @@ Module 1 challenge: a website for Horiseon that considers accessibility
 
 
 
-# <Your-Project-Title>
+# Horiseon Homepage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is a simple homepage for the digital consultancy, Horiseon. It outlines the three core services they offer and the three key benefits to potential customers. It was built to convey this information to potential customers in order to generate interest in the business. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The website allows users to understand what the company offers - at a high level - quickly and easily. 
+
+Accessibility needs have been considered throughout development in order to support those with accessibility needs and in order to improve SEO for the company. 
+
+It has been written in a very traditional way with basic HTML and CSS. There is one JavaScript script in the website footer also. 
+
+Building this simple website has helped me practise and refine my knowledge of some web development fundamentals. One learning that stands out is that there are so many ways to achieve the same outcome. I look forward to learning more about optimisation and efficient coding. 
+
+**Here is the published website URL:** https://seandonnelly92.github.io/m1-challenge-horiseon/index.html#search-engine-optimization 
+
 
 ## Table of Contents (Optional)
 

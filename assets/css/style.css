@@ -25,7 +25,7 @@ header {
     position: fixed;
     width: 100%;
     top: 0;
-}
+}   
 
 header h1 {
     display: inline-block;
@@ -34,6 +34,10 @@ header h1 {
 
 header h1 .seo {
     color: #d9dcd6;
+}
+
+.header nav ul {
+    list-style-type: none;
 }
 
 nav {
