@@ -50,7 +50,7 @@ If you want to work on the software locally, here is one way of doing it
 
 ## Usage
 
-Functionality is limited on the website, it mostly just displays information. The nav bar does contain four links: one is the logo which just redirects to the homepage. This will only be useful in future if other pages are added and the nav bar is updated. The other three links in the nav bar are internal anchor tags that scroll the relevant section on the homepage. Provide instructions and examples for use. 
+Functionality is limited on the website, it mostly just displays information. The nav bar does contain four links: one is the logo which just redirects to the homepage. This will only be useful in future if other pages are added and the nav bar is updated. The other three links in the nav bar are internal anchor tags that scroll the relevant section on the homepage. 
 
 Here is a screenshot of the live website: 
         ![Screen capture of the live Horiseon website](assets/images/live-website-screen-capture.png)
