@@ -80,12 +80,19 @@
             </p>
         </article>
     </aside>
+
     <footer>
         <h2>Made with ❤️️ by Horiseon</h2>
-        <p>
-            &copy; 2019 Horiseon Social Solution Services, Inc.
-        </p>
+        <p>&copy; <span id="currentYear"></span> Horiseon Social Solution Services, Inc.</p>
     </footer>
+
+    <!-- JavaScript Scripts -->
+    <script>
+        // JavaScript code to update the current year
+        document.getElementById('currentYear').innerText = new Date().getFullYear();
+    </script>
+
+
 </body>
 
 </html>
