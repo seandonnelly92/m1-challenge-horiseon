@@ -8,10 +8,13 @@
 </head>
 
 <body>
-    <header>
-        <!-- The "seo" class makes the 'seo' part of the logo aa light gray to emphasise our SEO services-->
 
-        <a href="index.html"><h1>Hori<span class="seo">seo</span>n</h1></a>
+<!-- HEADER & NAV BAR -->
+
+    <header> <!-- The header area encompasses the fixed navbar with links and company logo -->
+
+        <a href="index.html"><h1>Hori<span class="seo">seo</span>n</h1></a>  <!-- The "seo" class makes the 'seo' part of the logo aa light gray to emphasise our SEO services-->
+
         <nav>
             <ul>
                 <li>
@@ -28,11 +31,14 @@
         </nav>
     </header>
 
-<!-- This is where the hero image is -->
+<!-- HERO/BANNER IMAGE -->
 
     <section class="hero-image" title="Image of a team of office workers collaborating around a conference room table"></section>
 
-    <main>
+<!-- MAIN AREA -->
+
+    <main> <!-- The bulk of the homepage content is inside the main area. It features three "service-cards" which outline Horiseon's offering. -->
+
 
         <article id="search-engine-optimization" class="service-cards">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt=""/>  <!-- I have used empty Alt strings for the images here because they are 'decorative' images not 'active' images. Therefore, including alt descriptions would have added audio clutter instead of improving accessibility.-->
@@ -58,7 +64,9 @@
         </article>
     </main>
 
-    <aside class="benefits">
+<!-- SIDE PANEL -->
+
+    <aside class="benefits"> <!-- Side panel which shows the three key benefits of the services that Horiseon offer for clients -->
         <article class="benefit">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt=""/>
@@ -82,17 +90,17 @@
         </article>
     </aside>
 
+    <!-- FOOTER -->
+
     <footer>
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>&copy; <span id="currentYear"></span> Horiseon Social Solution Services, Inc.</p>
     </footer>
 
-    <!-- JavaScript Scripts -->
     <script>
-        // JavaScript code to update the current year
+        // This JavaScript script dynamically shows the current year in the footer copyright notice to stop it going out of date, which is common on websites. 
         document.getElementById('currentYear').innerText = new Date().getFullYear();
     </script>
-
 
 </body>
 
