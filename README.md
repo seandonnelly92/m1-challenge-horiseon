@@ -15,7 +15,7 @@ It has been written in a very traditional way with basic HTML and CSS. There is 
 
 Building this simple website has helped me practise and refine my knowledge of some web development fundamentals. One learning that stands out is that there are so many ways to achieve the same outcome. I look forward to learning more about optimisation and efficient coding. 
 
-**Here is the published website URL:** https://seandonnelly92.github.io/m1-challenge-horiseon/index.html
+**Here is the published website URL:** https://seandonnelly92.github.io/m1-challenge-horiseon/
 
 
 ## Table of Contents (Optional)
@@ -30,7 +30,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 
 
-You can see the live website by visting https://seandonnelly92.github.io/m1-challenge-horiseon/index.html. 
+You can see the live website by visting https://seandonnelly92.github.io/m1-challenge-horiseon/ 
 
 If you want to work on the software locally, here is one way of doing it
 
