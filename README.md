@@ -1,8 +1,4 @@
-# m1-challenge-horiseon
-Module 1 challenge: a website for Horiseon that considers accessibility
-
-
-
+_This project was created for module 1 of the Front End Development bootcamp. In this challenge, we were tasked with refactoring code to make it more accessible for a fictional digital consultancy called Horiseon._
 
 
 # Horiseon Homepage
@@ -33,6 +29,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
+
 You can see the live website by visting https://seandonnelly92.github.io/m1-challenge-horiseon/index.html. 
 
 If you want to work on the software locally, here is one way of doing it
@@ -42,17 +39,26 @@ If you want to work on the software locally, here is one way of doing it
 
     ![GIF showing how to download the code repository from GitHub](assets/images/download-repository.gif)
 
+3. Navigate to your downloads folder an Unzip the repository folder. 
+4. Move whole folder to a location where you want your project to be stored locally.
+5. Open Visual Studio Code
+6. Click File > Open Folder... 
+7. Navigate to the location where you stored the repository
+8. Select the folder
+9. Click Open
+10. Now you can work on the codebase locally! 
 
 ## Usage
 
 Functionality is limited on the website, it mostly just displays information. The nav bar does contain four links: one is the logo which just redirects to the homepage. This will only be useful in future if other pages are added and the nav bar is updated. The other three links in the nav bar are internal anchor tags that scroll the relevant section on the homepage. Provide instructions and examples for use. 
 
 Here is a screenshot of the live website: 
-
-    ![Screen capture of the live Horiseon website](assets/images/live-website-screen-capture.png)
+        ![Screen capture of the live Horiseon website](assets/images/live-website-screen-capture.png)
 
 
 ## Credits
+
+
 
 I would like to thank EdX Skills for Life team including Abdul and all of the TAs for their support so far. 
 
